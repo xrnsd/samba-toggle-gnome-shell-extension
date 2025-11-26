@@ -1,0 +1,9 @@
+{
+	"name": "Samba Toggle",
+	"version": 3,
+	"description": "A GNOME extension to toggle the Samba service on/off from the quick settings menu",
+	"uuid": "samba-toggle@willow.sh",
+	"url": "https://github.com/xrnsd/samba-toggle-gnome-shell-extension",
+	"shell-version": ["48", "49"],
+	"gettext-domain": "samba-toggle@willow.sh"
+}
